@@ -1,0 +1,1 @@
+Registration form with validation. jQuery educational assignment at Coding Dojo.
